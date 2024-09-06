@@ -1,12 +1,12 @@
 # ARGUS in a day workshop👾
 
-Welcome to your **ARGUS hands-on lab** experience! This repos gets you all setup to embark on your assigned epic quest. Excited yet?
+Welcome to your **ARGUS hands-on lab** experience! This repo gets you all the setup to embark on your assigned epic quest. Excited yet?
 
 ```text
 Did you know ARGUS stands for Automated Retrieval and GPT Understanding System? 
 ```
 
-Today you will be doing a deep dive into ARGUS🦹🏻‍♂️.
+Today you will be doing a deep dive into ARGUS🦹🏻‍♂️ and embark on a journey full of quests!
 
 ## Introduction
 
@@ -31,17 +31,9 @@ You will find the preliminary steps to setup the lab yourself [here](./student/R
 
 [Read about ARGUS Framework](https://github.com/Azure-Samples/ARGUS)
 
-* [Incident Response Series: Chapter #1 Phishing and cookie stolen with Evilginx](https://www.youtube.com/watch?v=D4trW5YM9PM)
-* [Sentinel for SAP - SOAR blog series with semi-automatic user block via Microsoft Teams](https://community.sap.com/t5/enterprise-resource-planning-blogs-by-members/from-zero-to-hero-security-coverage-with-microsoft-sentinel-for-your/ba-p/13561790)
-* [SAP attack disrupt article](https://learn.microsoft.com/azure/sentinel/sap/deployment-attack-disrupt)
-* [Securing Multi-Cloud Gen AI workloads](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/securing-multi-cloud-gen-ai-workloads-using-azure-native/ba-p/4222728)
-* [Phish-resistant Multi-Factor Authentication](https://learn.microsoft.com/entra/identity/authentication/concept-authentication-strengths)
+* [Azure Document Intelligence](https://github.com/Azure-Samples/ARGUS)
 
-### Manipulation toolsets
-
-* [Token Tactics](https://github.com/rvrsh3ll/TokenTactics)
-* [Evilginx](https://help.evilginx.com/docs/intro)
 
 ## 📢Feedback
 
-This repos encourages contributions and feedback via the [GitHub Issues](https://github.com/MartinPankraz/sap-hacker-in-a-day/issues/new/choose).
+This repos encourages contributions and feedback via the [GitHub Issues](https://github.com/sanjeevkumar761/ARGUS-In-A-Day-Hands-on-Lab/issues).
