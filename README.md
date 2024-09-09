@@ -21,9 +21,9 @@ Throughout the day, you’ll engage in a series of interactive quests, each aime
 
 ## What else to expect
 
-You will find the preliminary steps to setup the lab yourself [here](./student/README.md#when-not-in-a-guided-workshop-ensure-you-have).
+You will find the preliminary steps to setup the lab yourself [here](./student/quest1.md).
 
-## 📌Buckle up and start your lab [**👉here**](student/README.md)📌
+## 📌Start your lab [**👉here**](student/README.md)📌
 
 ⏱️⩇⩇:⩇⩇⩇⩇:⩇⩇
 

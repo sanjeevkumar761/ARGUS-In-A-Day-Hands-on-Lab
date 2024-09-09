@@ -15,3 +15,8 @@ Go to the **Process Files** tab and enter the new dataset name. Click the "Add N
 🔍 Now, review the JSON output from the document contents.
 
 
+## Where to next?
+
+**[🏠Home](../README.md)** - [ Quest 3 >](quest3.md)
+
+[🔝](#)

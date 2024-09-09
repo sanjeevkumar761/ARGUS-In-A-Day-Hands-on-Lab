@@ -1,9 +1,14 @@
-# Quest 6 - Evaluate the results
+# Quest 6 - Private networking and managed identity
 
-Go to path src/functionapp and run pip install-r requiremets.txt
-Go to path notebooks and run pip install-r requiremets.txt
-Go to path notebooks and save the file .env.temp as .env
-Update the values of variables in .env file.
-Locate the notebook evaluator.ipynb in the folder "notebooks".
-Run the notebook for evaluation.
+- Function App  
+- Storage Account  
+- Cosmos DB  
+- Application Insights  
+- Azure OpenAI  
+- Document Intelligence  
 
+## Where to next?
+
+**[🏠Home](../README.md)** - [ Quest 1 >](quest1.md)
+
+[🔝](#)
